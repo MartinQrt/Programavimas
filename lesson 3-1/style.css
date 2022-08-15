@@ -1,0 +1,15 @@
+header {
+    color: rgb(155, 155, 94);
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+section.red {
+    color: rgb(185, 110, 110);
+}
+
+
+img {
+    border-radius: 15%;
+    border: ;
+}

@@ -1,0 +1,72 @@
+body {
+    background-color: #eeee;
+}
+
+header,
+section {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+
+header {
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    border: ;
+    border-radius: 15px;
+    padding-right: ;
+}
+
+header img {
+    width: 35%;
+    margin: 30px;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 80%;
+    margin: 0 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+#Apie {
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+}
+
+section img {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.product {
+    text-align: center;
+    font-weight: bold;
+}
+
+.product img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+}
