@@ -1,0 +1,19 @@
+    p {
+        color: red;
+    }
+
+    div>div>p {
+        color: purple
+    }
+
+    * {
+        background-color: aquamarine
+    }
+
+    span {
+        color: yellow
+    }
+
+    div>span {
+        color: orange
+    }
