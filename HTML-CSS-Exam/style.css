@@ -1,0 +1,43 @@
+.container {
+    width: 1440px;
+    height: auto;
+    border-radius: 15px;
+    background-image: url("C:\Users\Lenovo\Desktop\Programavimas\HTML-CSS-Exam\assets\assets\background.sv");
+}
+
+.logo {
+    padding-top: 70px;
+    padding-left: 80px;
+
+}
+
+.nav-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: end
+}
+
+.nav-links {
+    width: 400px;
+    padding-top: 70px;
+    text-decoration: none;
+
+}
+
+nav a {
+    color: grey;
+    text-decoration: none;
+    font-size: medium;
+    margin-left: 1.5rem;
+
+}
+
+nav a: last-child {
+    color: red;
+}
+
+.master {
+    display: flex;
+    justify-content: space-between;
+
+}
