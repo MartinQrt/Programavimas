@@ -3,7 +3,7 @@
     width: 1360px;
     height: auto;
     border-radius: 15px;
-    background-image: url("C:\Users\Lenovo\Desktop\Programavimas\HTML-CSS-Exam\assets\assets\background.sv");
+
 }
 
 .logo {
@@ -82,14 +82,15 @@ p {
 
 .birds-container {
     border-radius: 10px;
-    background-color: rgb(232, 117, 136);
     width: 1280px;
     height: 320px;
+    background-image: url("C:\Users\Lenovo\Desktop\Programavimas\HTML-CSS-Exam\assets\assets\background.svg");
 }
 
 .birds-text {
     padding-top: 150px;
     padding-left: 65px;
+
 }
 
 h4 {
@@ -209,4 +210,76 @@ h5 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.footer-upsel {
+    display: flex;
+    margin-top: 100px;
+}
+
+hr.solid {
+    border-top: 2px solid #bbb;
+    margin-top: 120px;
+}
+
+.footer-upsel button {
+    border-radius: 40px;
+    width: 200px;
+    height: 80px;
+    background-color: white;
+    border: 6px solid rebeccapurple;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.madam-green {
+    justify-items: center;
+    padding-left: 260px;
+}
+
+.medium {
+    font-size: 60px;
+    margin: 10px 0px 10px 0px;
+}
+
+hr.solid2 {
+    margin-top: 0px;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-right {
+    width: 600px;
+    display: flex;
+}
+
+.footer-left {
+    width: 250px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.about {
+    flex-direction: column;
+    text-decoration: none;
+}
+
+.nft {
+    flex-direction: column;
+}
+
+.Contact {
+    flex-direction: column;
+}
+
+.Social {
+    flex-direction: column;
 }
